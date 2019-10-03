@@ -1,0 +1,21 @@
+/*
+Reset CSS
+*/
+* {
+  margin: 0;
+  padding: 0;
+
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%; /* 62,5% de 16px soit 10px*/
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+/**/
