@@ -18,6 +18,15 @@ body {
   font-size: 1.6rem;
 }
 
+img {
+  max-width: 100%;
+}
+
+a:not([target='_blank']) {
+  /*css selector */
+  text-decoration: none;
+}
+
 /**/
 
 /*
