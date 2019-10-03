@@ -36,3 +36,22 @@ Titles
 h1 {
   color: green;
 }
+
+h1 em {
+  display: block;
+  font-size: 0.5em;
+  font-size: normal;
+  font-weight: 100;
+}
+/**/
+
+/*
+Layout
+*/
+header,
+main,
+footer {
+  max-width: 80rem;
+  margin: auto;
+}
+/**/
